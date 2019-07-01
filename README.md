@@ -7,5 +7,5 @@ These slides were originally designed for brifely introducing the basic principl
 ## Slides 
 - Integrative Genomics Viewer, IGV: [Official Web](https://software.broadinstitute.org/software/igv/); see documentation [here](igv_tutorial.pdf)
 - Gene Set Enrichment Analysis, GSEA: [Official Web](http://software.broadinstitute.org/gsea/index.jsp); see documentation [here](gsea_tutorial.pdf)
-- GEO submission for array- & NGS-based data: see documentation [here](geo_submission.pdf)
+- GEO submission for array- & NGS-based data: see documentation [here](geo_tutorial.pdf)
 
