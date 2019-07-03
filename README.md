@@ -8,4 +8,5 @@ These slides were originally designed for brifely introducing the basic principl
 - Integrative Genomics Viewer, IGV: [Official Web](https://software.broadinstitute.org/software/igv/); see documentation [here](igv_tutorial.pdf)
 - Gene Set Enrichment Analysis, GSEA: [Official Web](http://software.broadinstitute.org/gsea/index.jsp); see documentation [here](gsea_tutorial.pdf)
 - GEO submission for array- & NGS-based data: see documentation [here](geo_tutorial.pdf)
+- A brief summary of the databases supported by ANNOVAR (a popular ariant annotation tool): see documentation [here]()
 
